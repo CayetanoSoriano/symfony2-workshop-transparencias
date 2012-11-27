@@ -1,0 +1,1927 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"wi",
+				"width:   (property)"
+			],
+			[
+				"whi",
+				"whitesmoke"
+			],
+			[
+				"gray",
+				"grayLight"
+			],
+			[
+				"gra",
+				"grayLighter"
+			],
+			[
+				"bla",
+				"blueDark"
+			],
+			[
+				"f",
+				"foreach	foreach …"
+			],
+			[
+				"en",
+				"entities"
+			],
+			[
+				"con",
+				"consulta"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"rec",
+				"recintos"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"recintos",
+				"recintosArray"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"echo",
+				"echo_parameters"
+			],
+			[
+				"Even",
+				"EventoBundle"
+			],
+			[
+				"set",
+				"setNombre  (function)"
+			],
+			[
+				"sf",
+				"sfform	Symfony2 / Controller / Form Type"
+			],
+			[
+				"i",
+				"if?	$… = ( … ) ? … : …"
+			],
+			[
+				"arra",
+				"array_visitado"
+			],
+			[
+				"ajax",
+				"$.ajax	jQuery AJAX call"
+			],
+			[
+				"re",
+				"ready	document-ready"
+			],
+			[
+				"rea",
+				"ready	document-ready"
+			],
+			[
+				"g",
+				"googleapis"
+			],
+			[
+				"routing",
+				"routing_name"
+			],
+			[
+				"Entrada",
+				"EntradaGenerada [Entity]"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"Event",
+				"EventoType"
+			],
+			[
+				"conten",
+				"content_header_base"
+			],
+			[
+				"qu",
+				"queryEventosPanel  (function)"
+			],
+			[
+				"qrcode",
+				"qrcode-img-event"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"if",
+				"if	Twig : If"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"fech",
+				"fecha_desactivacion  (variable)"
+			],
+			[
+				"add",
+				"addNormalizer"
+			],
+			[
+				"get",
+				"getSlug  (function)"
+			],
+			[
+				"req",
+				"req	require …"
+			],
+			[
+				"str",
+				"strtolower  (function)"
+			],
+			[
+				"getP",
+				"getPasarelaDePago  (function)"
+			],
+			[
+				"cre",
+				"createForm  (function)"
+			],
+			[
+				"strup",
+				"strtoupper  (function)"
+			],
+			[
+				"cand",
+				"candgo\\PurchaseBundle\\Entity\\Carrito  (class)"
+			],
+			[
+				"sfco",
+				"sfcontroller	Symfony2 / Controller / Controller class"
+			],
+			[
+				"h",
+				"hash"
+			],
+			[
+				"findon",
+				"findOneByHash"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"Pago",
+				"PasarelaDePago  (namespace)"
+			],
+			[
+				"Da",
+				"DateTime  (class)"
+			],
+			[
+				"ENT",
+				"entity"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"unique",
+				"unique_visits"
+			],
+			[
+				"uni",
+				"unit"
+			],
+			[
+				"json",
+				"json"
+			],
+			[
+				"translat",
+				"Translatable"
+			],
+			[
+				"ent",
+				"entity"
+			],
+			[
+				"entit",
+				"entity"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"_",
+				"_tickets"
+			],
+			[
+				"create",
+				"createForm"
+			],
+			[
+				"price",
+				"_price"
+			],
+			[
+				"arr",
+				"array_entradas"
+			],
+			[
+				"getTi",
+				"getTitulo  (function)"
+			],
+			[
+				"getS",
+				"getSlug"
+			],
+			[
+				"E",
+				"EventoBundle"
+			],
+			[
+				"pagina",
+				"pagination"
+			],
+			[
+				"id",
+				"id_evento"
+			],
+			[
+				"id_",
+				"id_sesion"
+			],
+			[
+				"En",
+				"Entrada"
+			],
+			[
+				"entr",
+				"entrada"
+			],
+			[
+				"Entr",
+				"EntradaAjaxType"
+			],
+			[
+				"sfe",
+				"sfem	Symfony2 / Controller / Get Entity Manager"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"font",
+				"font	font-size: size"
+			],
+			[
+				"span",
+				"span"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"Evento",
+				"EventoBundle"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Enti",
+				"EntityRepository"
+			],
+			[
+				"User",
+				"UserBundle"
+			],
+			[
+				"tipo",
+				"tipoevento"
+			],
+			[
+				"Tipo",
+				"TipoEvento"
+			],
+			[
+				"impl",
+				"implements"
+			],
+			[
+				"sfcol",
+				"sftextcolumn	Symfony2 / Model / String column doc"
+			],
+			[
+				"sff",
+				"sfforward	Symfony2 / Controller / Forward"
+			],
+			[
+				"fos",
+				"fos_userbundle"
+			],
+			[
+				"TC",
+				"tcpdf"
+			],
+			[
+				"prueba",
+				"prueba2"
+			],
+			[
+				"in",
+				"input"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 15494,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/theme/simple.css",
+			"settings":
+			{
+				"buffer_size": 3637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/theme/default.css",
+			"settings":
+			{
+				"buffer_size": 5311,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"iden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"servi",
+				"SymfonyCommander Select Service"
+			],
+			[
+				"name",
+				"Insert PHP namespace"
+			],
+			[
+				"comen",
+				"Toggle Comment"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"swtc",
+				"SymfonyCommander Switch Action <-> Template"
+			],
+			[
+				"over",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"symfony id",
+				"Snippet: Symfony2 / Model / Id column doc"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"idnet",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"di",
+				"Git: Diff Current File"
+			],
+			[
+				"cache",
+				"SymfonyCommander cache:clear (dev)"
+			],
+			[
+				"IDEN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"doc",
+				"Snippet: Start Docblock"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"aja",
+				"Snippet: <script> (jQuery google ajax api)"
+			],
+			[
+				"sucess",
+				"Snippet: Bootstrap success button"
+			],
+			[
+				"route",
+				"SymfonyCommander Select Route"
+			],
+			[
+				"command",
+				"SymfonyCommander Select Route"
+			],
+			[
+				"controller",
+				"Snippet: Symfony2 / Controller / Controller class"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"jquery g",
+				"Snippet: jQuery.get"
+			],
+			[
+				"jqu",
+				"Snippet: jQuery.ajax"
+			],
+			[
+				"icon",
+				"Snippet: Bootstrap basic four column grid"
+			],
+			[
+				"jque",
+				"Snippet: <script> (code.jquery.com)"
+			],
+			[
+				"bread",
+				"Snippet: Bootstrap breadcrumb"
+			],
+			[
+				"nav",
+				"Snippet: Bootstrap navigation bar"
+			],
+			[
+				"badge",
+				"Snippet: Bootstrap error badge"
+			],
+			[
+				"bootstrap",
+				"Snippet: Bootstrap fluid layout"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"symfo",
+				"Snippet: Symfony2 / Controller / Controller class"
+			],
+			[
+				"rout",
+				"SymfonyCommander Select Route"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"bootstrap co",
+				"Snippet: Bootstrap accordion"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"symfon",
+				"Snippet: Symfony2 / Dependency Injection / Service file"
+			],
+			[
+				"ove",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"symfony",
+				"Snippet: Symfony2 / Controller / Controller class"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"overt",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"comman",
+				"SymfonyCommander Select Route"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bootstrap fo",
+				"Snippet: Bootstrap horizontal form"
+			],
+			[
+				"form",
+				"Snippet: Bootstrap horizontal form"
+			],
+			[
+				"snippet",
+				"Snippet: QUnit HTML"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"commander",
+				"SymfonyCommander Select Route"
+			],
+			[
+				"",
+				"Convert Case: Title Case"
+			],
+			[
+				"switch",
+				"SymfonyCommander Switch Action <-> Template"
+			],
+			[
+				"com",
+				"SymfonyCommander Switch Action <-> Template"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"form ",
+				"Snippet: Symfony2 / Controller / Form Type"
+			],
+			[
+				"sfcol",
+				"Snippet: Symfony2 / Model / String column doc"
+			],
+			[
+				"overw",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"boot",
+				"Snippet: Bootstrap pagination"
+			],
+			[
+				"sf",
+				"Snippet: Symfony2 / Controller / Set Flash"
+			],
+			[
+				"symfony en",
+				"Snippet: Symfony2 / Controller / Get Entity Manager"
+			],
+			[
+				"symfony2",
+				"Snippet: Symfony2 / Controller / Get Entity Manager"
+			],
+			[
+				"symf",
+				"Snippet: Symfony2 / Entity / Entity class"
+			],
+			[
+				"symfony entity",
+				"Snippet: Symfony2 / Entity / Entity class"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"symfony model",
+				"Snippet: Symfony2 / Model / String column doc"
+			],
+			[
+				"entity",
+				"Snippet: Symfony2 / Model / Entity doc"
+			],
+			[
+				"boots",
+				"Snippet: Bootstrap starter"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"idetn",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remo",
+				"Fetch: Manage remote files"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"id",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"carou",
+				"Snippet: Bootstrap carousel"
+			],
+			[
+				"car",
+				"Snippet: Bootstrap carousel"
+			],
+			[
+				"LOR",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"block",
+				"Snippet: Twig : Block"
+			],
+			[
+				"sfre",
+				"Snippet: Symfony2 / Controller / Get Repository"
+			],
+			[
+				"sfd",
+				"Snippet: Symfony2 / Controller / Redirect"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"man",
+				"Snippet: Symfony2 / Controller / Get Entity Manager"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"col",
+				"Snippet: Symfony2 / Model / String column doc"
+			],
+			[
+				"colu",
+				"Snippet: Symfony2 / Model / String column doc"
+			],
+			[
+				"find",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"nam",
+				"Insert PHP namespace"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"fe",
+				"Fetch"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"bootstrap hero",
+				"Snippet: Bootstrap hero example"
+			],
+			[
+				"orm",
+				"Snippet: Symfony2 / Controller / Form Type"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"button",
+				"Snippet: Bootstrap grouped buttons"
+			],
+			[
+				"prima",
+				"Snippet: Bootstrap important inline label"
+			],
+			[
+				"f",
+				"Fetch"
+			],
+			[
+				"bootstrap s",
+				"Snippet: Bootstrap starter"
+			],
+			[
+				"but",
+				"Snippet: Bootstrap button dropdowns"
+			],
+			[
+				"hero",
+				"Snippet: Bootstrap hero example"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/proyectos/candgo/src/candgo/EventoBundle/DataFixtures/ORM/InitialLoad.php",
+		"/proyectos/candgo/web/less/bootstrap/wells.less",
+		"/proyectos/candgo/app/config/config.yml",
+		"/proyectos/candgo/src/candgo/BitlyBundle/DependencyInjection/candgoBitlyExtension.php",
+		"/proyectos/candgo/app/AppKernel.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Controller/PaginaController.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Resources/views/Pagina/index.html.twig",
+		"/proyectos/candgo/src/candgo/AdminBundle/Resources/config/Entradagenerada-generator.yml",
+		"/proyectos/candgo/src/neoshadybeat/QrCodeBundle/DependencyInjection/Configuration.php",
+		"/proyectos/candgo/src/neoshadybeat/QrCodeBundle/DependencyInjection/neoshadybeatQrCodeExtension.php",
+		"/proyectos/candgo/app/config/routing.yml",
+		"/proyectos/candgo/src/neoshadybeat/QrCodeBundle/Model/QrCodeService.php",
+		"/proyectos/candgo/src/neoshadybeat/QrCodeBundle/Resources/config/services.xml",
+		"/proyectos/candgo/src/candgo/BitlyBundle/Resources/config/services.xml",
+		"/proyectos/candgo/web/less/my-mixins.less",
+		"/proyectos/candgo/web/less/candgo.less",
+		"/proyectos/candgo/web/less/bootstrap/navbar.less",
+		"/proyectos/candgo/src/candgo/EventoBundle/Entity/Repository/EventoRepository.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Entity/Sesion.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Entity/Recinto.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Controller/EventoController.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Resources/views/Evento/search.html.twig",
+		"/proyectos/candgo/src/candgo/EventoBundle/DataFixtures/ORM/Recintos.php",
+		"/proyectos/candgo/src/candgo/BitlyBundle/Controller/UtilController.php",
+		"/proyectos/candgo/web/less/bootstrap/variables.less",
+		"/proyectos/candgo/vendor/mopa/barcode-bundle/Mopa/Bundle/BarcodeBundle/Model/BarcodeService.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Resources/views/Pagina/pagina.html.twig",
+		"/proyectos/candgo/vendor/doctrine/orm/lib/Doctrine/ORM/Query/TreeWalkerAdapter.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/views/base_admin_assetic_less.html.twig",
+		"/proyectos/candgo/src/candgo/AdminBundle/Resources/views/base_admin.html.twig",
+		"/proyectos/candgo/src/candgo/AdminBundle/Resources/config/Evento-generator.yml",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/paginator.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/thead.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListAction/pager.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListAction/batch_actions.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Generator/DeleteBatchAction.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/batch_actions.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Twig/Extension/EchoExtension.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/nbresults.php.twig",
+		"/proyectos/candgo/vendor/doctrine/orm/lib/Doctrine/ORM/Query/SqlWalker.php",
+		"/proyectos/candgo/vendor/knplabs/knp-components/src/Knp/Component/Pager/Event/Subscriber/Sortable/Doctrine/ORM/Query/OrderByWalker.php",
+		"/proyectos/candgo/app/Resources/views/base.html.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/ListBuilderTemplate.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Admin/NestedListBuilder.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/skeleton/bundle/generator.yml",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Admin/ListBuilderAction.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Admin/ListBuilder.php",
+		"/proyectos/candgo/src/candgo/AdminBundle/Controller/Artista/ListController.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Entity/PocCity.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Entity/PocCountry.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Entity/Poc.php",
+		"/proyectos/candgo/composer.json",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/actions.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/EditTemplate/fieldset.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/EditTemplate/Type/collection.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/translations/Admingenerator.es.yml",
+		"/proyectos/candgo/src/candgo/EventoBundle/Entity/Evento.php",
+		"/proyectos/candgo/src/candgo/PurchaseBundle/Entity/Repository/ArticuloCarritoRepository.php",
+		"/proyectos/candgo/src/candgo/PurchaseBundle/Entity/Repository/CarritoRepository.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/EditTemplate/actions.php.twig",
+		"/proyectos/candgo/vendor/behat/mink/src/Behat/Mink/Session.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Tests/Twig/Extension/EchoExtensionTest.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/filters.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Admin/ListBuilderTemplate.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Form/Type/DoctrineDoubleListType.php",
+		"/proyectos/candgo/src/Admingenerator/GeneratorBundle/Twig/Extension/EchoExtension.php",
+		"/proyectos/candgo/src/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/nbresults.php.twig",
+		"/proyectos/candgo/src/Admingenerator/GeneratorBundle/Tests/Twig/Extension/EchoExtensionTest.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListAction/ListBuilderAction.php.twig",
+		"/proyectos/candgo/vendor/knplabs/knp-paginator-bundle/Knp/Bundle/PaginatorBundle/Pagination/SlidingPagination.php",
+		"/proyectos/candgo/app/config/config_dev.yml",
+		"/proyectos/candgo/web/app_dev.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Tests/TestCase.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Tests/autoload.php.dist",
+		"/proyectos/candgo/vendor/symfony/symfony/autoload.php.dist",
+		"/proyectos/candgo/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Tests/TestUser.php",
+		"/proyectos/candgo/vendor/mopa/bootstrap-bundle/Mopa/Bundle/BootstrapBundle/Tests/tests/autoload.php.dist",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Pagerfanta/View/AdmingeneratorView.php",
+		"/proyectos/candgo/src/candgo/EventoBundle/Resources/views/Evento/view.html.twig",
+		"/proyectos/candgo/src/candgo/PurchaseBundle/Resources/views/Default/start_purchase.html.twig",
+		"/proyectos/candgo/src/candgo/PurchaseBundle/Controller/DefaultController.php",
+		"/proyectos/candgo/src/candgo/AdminBundle/Resources/config/Recinto-generator.yml",
+		"/proyectos/candgo/src/candgo/AdminBundle/Resources/views/RecintoNew/index.html.twig",
+		"/proyectos/candgo/app/config/security.yml",
+		"/proyectos/candgo/vendor/doctrine/common/lib/Doctrine/Common/Annotations/AnnotationException.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Guesser/DoctrineORMFieldGuesser.php",
+		"/proyectos/candgo/web/app.php",
+		"/proyectos/candgo/vendor/mopa/bootstrap-bundle/Mopa/Bundle/BootstrapBundle/Resources/translations/pagination.pl.yml",
+		"/proyectos/candgo/src/candgo/EventoBundle/DataFixtures/ORM/Recintos.php2",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Generator.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/views/base_admin.html.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Guesser/DoctrineODMFieldGuesser.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Guesser/PropelORMFieldGuesser.php",
+		"/proyectos/candgo/web/less/style.less",
+		"/proyectos/candgo/web/less/bootstrap/mixins.less",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-activeadmintheme-bundle/Admingenerator/ActiveAdminThemeBundle/Resources/views/base_admin.html.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Routing/Manipulator/RoutingManipulator.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Command/GenerateAdminAdminCommand.php",
+		"/proyectos/candgo/vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Command/GenerateBundleCommand.php",
+		"/proyectos/candgo/web/less/bootstrap/responsive-768px-979px.less",
+		"/proyectos/candgo/src/candgo/AdminBundle/Resources/views/EventoList/index.html.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/EditTemplate/form.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/title.php.twig",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/NestedListTemplate/NestedListBuilderTemplate.php.twig",
+		"/proyectos/candgo/web/css/style.css",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/public/css/style.css",
+		"/proyectos/candgo/src/candgo/AdminBundle/Menu/AdminMenu.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/object_actions.php.twig",
+		"/proyectos/candgo/web/bundles/admingeneratoractiveadmintheme/css/all.css",
+		"/proyectos/candgo/src/candgo/AdminBundle/Resources/config/Artista-generator.yml",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Command/GenerateAdminCommand.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Menu/DefaultMenuBuilder.php",
+		"/proyectos/candgo/src/AdminBundle/Menu/DefaultMenuBuilder.php",
+		"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/DependencyInjection/Configuration.php",
+		"/proyectos/candgo/src/candgo/AdminBundle/Menu/Builder.php",
+		"/proyectos/candgo/src/candgo/AdminBundle/Menu/DefaultMenuBuilder.php",
+		"/proyectos/candgo/src/candgo/AdminBundle/Menu/DefaultMenu.php",
+		"/proyectos/candgo/app/config/admin-routing.yml",
+		"/proyectos/candgo/app/config/admin-routing",
+		"/proyectos/candgo/src/candgo/AdminBundle/candgoAdminBundle.php",
+		"/proyectos/candgo/app/cache/dev/Admingenerated/candgoAdminpocBundle/BaseProbaprobaController/DeleteController.php",
+		"/proyectos/candgo/app/cache/dev/Admingenerated/candgoAdminpocBundle/BaseProbaprobaController/EditController.php",
+		"/proyectos/candgo/app/cache/dev/Admingenerated/candgoAdminpocBundle/BaseProbaprobaController/ListController.php",
+		"/proyectos/candgo/app/cache/dev/Admingenerated/candgoAdminpocBundle/BaseProbaprobaController/NewController.php",
+		"/proyectos/candgo/app/cache/dev/Admingenerated/candgoAdminpocBundle/BasePruebaController/DeleteController.php",
+		"/proyectos/candgo/app/cache/dev/Admingenerated/candgoAdminpocBundle/BasePruebaController/EditController.php",
+		"/proyectos/candgo/app/cache/dev/Admingenerated/candgoAdminpocBundle/BasePruebaController/ListController.php",
+		"/proyectos/candgo/app/cache/dev/Admingenerated/candgoAdminpocBundle/BasePruebaController/NewController.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/proyectos/candgo/web",
+			"/proyectos/candgo/",
+			"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle",
+			"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder",
+			"/proyectos/candgo/",
+			"/proyectos/candgo/vendor/cedriclombardot",
+			"/proyectos/candgo/vendor/",
+			"/proyectos/candgo/,/proyectos/candgo/src/candgo/AdminBundle/",
+			"/proyectos/candgo/,/proyectos/candgo/src/candgo/AdminBundle/Controller",
+			"/proyectos/candgo/",
+			"/proyectos/candgo/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\"fragment\"",
+			"ol>",
+			"img",
+			"<tr>",
+			"</tr>",
+			"</td>",
+			"<td>",
+			"<pre",
+			"pre",
+			"box-shadow",
+			"twig",
+			"exec(",
+			"exec",
+			"pagination.render()",
+			"media-grid",
+			"evento",
+			"1.7.2",
+			"{{ tinymce_init() }}\n{{ tinymce_init() }}\n{{ tinymce_init() }}\n1.7.2",
+			"{{ tinymce_init() }}\n1.7.2",
+			"_getQueryCom",
+			".render()",
+			"{{ pagination.render()|raw }}",
+			"list_thead",
+			"order_by",
+			"set",
+			"knp_paginator",
+			"list_nbresults",
+			"getPaginationData()",
+			"knp",
+			"listcontroller",
+			"Admin",
+			"{},{},",
+			"newline",
+			"\\ No newline at end of file\n\\ No newline at end of file\n\\ No newline at end of file\n\\ No newline at end of file\n\\ No newline at end of file\n\\ No newline at end of file\n\\ No newline",
+			"\\ No newline at end of file\n\\ No newline at end of file\n\\ No newline at end of file\n\\ No newline at end of file\n\\ No newline at end of file\n\\ No newline at end of file\n\\ No newline at end of file\nnewline",
+			"evento",
+			"\"en\"",
+			"'en'",
+			"Filtro",
+			"form.type_collection.add",
+			"echo_trans",
+			"New",
+			"{}",
+			"echo_trans\\((.*),(.*)\\)",
+			"echo_trans",
+			"echo_trans\\((.*),(.*)\\)",
+			"echo_trans\\((.*),(.*)i18n_catalog is defined ? i18n_catalog : \"Admin\"(.*)\\)",
+			"echo_trans\\((.*),(.*)\\)",
+			"echo_trans\\((.*)",
+			"echo_trans|((.*)",
+			"echo_trans(.*)",
+			"echo_trans\\((.*),i18n_catalog is defined ? i18n_catalog : \"Admin\"",
+			"echo_trans\\(.*,i18n_catalog is defined ? i18n_catalog : \"Admin\"",
+			"echo_trans(.*,i18n_catalog is defined ? i18n_catalog : \"Admin\"",
+			"i18n_catalog is defined ? i18n_catalog : \"Admin\"",
+			"echo_trans(.*,.*)",
+			"echo_trans(.*,.*,.*)",
+			"echo_trans(.*,.*)",
+			"echo_trans(.*)",
+			"echo_trans",
+			"admin",
+			"echotrans",
+			"getEchoTrans",
+			"echo_trans",
+			"    kernel.debug",
+			"getpaginationData",
+			"getpagin",
+			"setMaxPerPage",
+			"Pagerfanta\\Pagerfanta",
+			"pagerfanta(",
+			"nbresult",
+			"pagerfanta",
+			"form",
+			"getPager()",
+			"pager",
+			"pagerfanta",
+			" {%",
+			"notification_box",
+			"getFormOptions",
+			"dir",
+			"form",
+			"submit_button",
+			"li",
+			"class=\"new\"",
+			"span8",
+			"header>",
+			"admin_list main_content",
+			"class=\"edit\"",
+			"list_scopes",
+			"admin_list main_content",
+			"{%",
+			"<table",
+			"table",
+			"<table",
+			"table",
+			"form_block form_fieldset_NONE",
+			"control-label",
+			"knp_menu_class",
+			"prefix",
+			"AdminpocBundle",
+			"candgoAdminpocBundle",
+			"edit_recinto[latitud]",
+			"edit_recinto_latitud",
+			"shares",
+			"evento",
+			"            throw new InvalidOptionsException(sprintf('The \"format\" option should contain the letters \"y\", \"M\", \"d\", \"H\" and \"m\". Its current value is \"%s\".', $pattern));\n            throw new InvalidOptionsException(sprintf('The \"format\" option should contain the letters \"y\", \"M\", \"d\", \"H\" and \"m\". Its current value is \"%s\".', $pattern));\n            throw new InvalidOptionsException(sprintf('The \"format\" option should contain the letters \"y\", \"M\", \"d\", \"H\" and \"m\". Its current value is \"%s\".', $pattern));\n'The \"format\" option should contain the letters \"y\", \"M\", \"d\", \"H\" and \"m\". Its current value is \"%s\".', $pattern));\n'The \"format\" option should contain the letters \"y\", \"M\", \"d\", \"H\" and \"m\". Its current value is \"%s\".', $pattern));\n'The \"format\" option should contain the letters \"y\", \"M\", \"d\", \"H\" and \"m\". Its current value is \"%s\".', $pattern));\n'The \"format\" option should contain the letters \"y\", \"M\", \"d\", \"H\" and \"m\". Its current value is \"%s\".', $pattern));\nformat\" option ",
+			"string",
+			"admin",
+			"ivory_google_map.marker",
+			"low-quality",
+			"render",
+			"symfony21",
+			"candgo\\EventoBundle\\Entity\\YourModel",
+			"well",
+			"Symfony\\Bundle\\DoctrineFixturesBundle\\DoctrineFixturesBundle",
+			"knpm",
+			"knp",
+			"::layout.html.twig",
+			"search-query",
+			"totalCount",
+			"container",
+			"row",
+			"container",
+			"example.navbar",
+			"example",
+			"navbar",
+			"mopa_bootstrap.example.navbar",
+			"mopa"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"ul>",
+			"",
+			"{},",
+			"echo_trans\\($1,{},$2\\)",
+			"echo_trans\\($1,array(),$2\\)",
+			"echo_trans\\($1,$2\\)",
+			"echo_trans\\((.*),(.*)\\)",
+			"array(),i18n_catalog is defined ? i18n_catalog : \"Admin\"",
+			"echo_trans($1,array(),$2)",
+			"echo_trans($1,$2)",
+			"candgoAdminBundle",
+			"::base.html.twig",
+			"container-fluid",
+			"row-fluid",
+			"container-fluid",
+			"Roboto-Black-webfont",
+			"protected",
+			"",
+			"'",
+			"http://twitter.github.com/bootstrap/assets/img/",
+			"protected"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 15494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7024,
+								7024
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9812.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/theme/simple.css",
+					"settings":
+					{
+						"buffer_size": 3637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2101,
+								2101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1004.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/theme/default.css",
+					"settings":
+					{
+						"buffer_size": 5311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3769,
+								3769
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1148.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SymfonyCommander":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"initial",
+				"src/candgo/EventoBundle/DataFixtures/ORM/InitialLoad.php"
+			],
+			[
+				"appker",
+				"app/AppKernel.php"
+			],
+			[
+				"paginac",
+				"src/candgo/EventoBundle/Controller/PaginaController.php"
+			],
+			[
+				"qrs",
+				"src/neoshadybeat/QrCodeBundle/Model/QrCodeService.php"
+			],
+			[
+				"eventocon",
+				"src/candgo/EventoBundle/Controller/EventoController.php"
+			],
+			[
+				"evento.html",
+				"src/candgo/UserBundle/Resources/views/Panel/viewEventos.html.twig"
+			],
+			[
+				"nav",
+				"web/less/bootstrap/navbar.less"
+			],
+			[
+				"candgo.les",
+				"web/less/candgo.less"
+			],
+			[
+				"my-m",
+				"web/less/my-mixins.less"
+			],
+			[
+				"config.y",
+				"app/config/config.yml"
+			],
+			[
+				"appkernel",
+				"app/AppKernel.php"
+			],
+			[
+				"rout",
+				"app/config/routing.yml"
+			],
+			[
+				"entradagenera",
+				"src/candgo/AdminBundle/Resources/config/Entradagenerada-generator.yml"
+			],
+			[
+				"barcodeser",
+				"vendor/mopa/barcode-bundle/Mopa/Bundle/BarcodeBundle/Model/BarcodeService.php"
+			],
+			[
+				"entradage",
+				"src/candgo/AdminBundle/Resources/config/Entradagenerada-generator.yml"
+			],
+			[
+				"candgo.less",
+				"web/less/candgo.less"
+			],
+			[
+				"eventoc",
+				"src/candgo/EventoBundle/Controller/EventoController.php"
+			],
+			[
+				"well.e",
+				"web/less/bootstrap/wells.less"
+			],
+			[
+				"vari",
+				"web/less/bootstrap/variables.less"
+			],
+			[
+				"pagina",
+				"src/candgo/EventoBundle/Controller/PaginaController.php"
+			],
+			[
+				"config.ym",
+				"app/config/config.yml"
+			],
+			[
+				"util",
+				"src/candgo/BitlyBundle/Controller/UtilController.php"
+			],
+			[
+				"sesion",
+				"src/candgo/EventoBundle/Entity/Sesion.php"
+			],
+			[
+				"recintos",
+				"src/candgo/EventoBundle/DataFixtures/ORM/Recintos.php"
+			],
+			[
+				"eventocontr",
+				"src/candgo/EventoBundle/Controller/EventoController.php"
+			],
+			[
+				"sesion.",
+				"src/candgo/EventoBundle/Entity/Sesion.php"
+			],
+			[
+				"recinto.",
+				"src/candgo/EventoBundle/Entity/Recinto.php"
+			],
+			[
+				"eventorep",
+				"src/candgo/EventoBundle/Entity/Repository/EventoRepository.php"
+			],
+			[
+				"paginacon",
+				"src/candgo/EventoBundle/Controller/PaginaController.php"
+			],
+			[
+				"admin_",
+				"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/views/base_admin_assetic_less.html.twig"
+			],
+			[
+				"evento-ge",
+				"src/candgo/AdminBundle/Resources/config/Evento-generator.yml"
+			],
+			[
+				"base_admin",
+				"/proyectos/candgo/vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/views/base_admin_assetic_less.html.twig"
+			],
+			[
+				"config",
+				"app/config/config.yml"
+			],
+			[
+				"eventoge",
+				"src/candgo/AdminBundle/Resources/config/Evento-generator.yml"
+			],
+			[
+				"treewa",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Query/TreeWalkerAdapter.php"
+			],
+			[
+				"orderbyw",
+				"vendor/knplabs/knp-components/src/Knp/Component/Pager/Event/Subscriber/Sortable/Doctrine/ORM/Query/OrderByWalker.php"
+			],
+			[
+				"walker",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Query/SqlWalker.php"
+			],
+			[
+				"orderbywalker",
+				"vendor/knplabs/knp-components/src/Knp/Component/Pager/Event/Subscriber/Sortable/Doctrine/ORM/Query/OrderByWalker.php"
+			],
+			[
+				"echoe",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Twig/Extension/EchoExtension.php"
+			],
+			[
+				"eventog",
+				"src/candgo/AdminBundle/Resources/config/Evento-generator.yml"
+			],
+			[
+				"listbuild",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Admin/ListBuilder.php"
+			],
+			[
+				"nbr",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/nbresults.php.twig"
+			],
+			[
+				"echoex",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Twig/Extension/EchoExtension.php"
+			],
+			[
+				"batch_action",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/batch_actions.php.twig"
+			],
+			[
+				"batch_",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListAction/batch_actions.php.twig"
+			],
+			[
+				"deletebat",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Generator/DeleteBatchAction.php"
+			],
+			[
+				"listbuilder",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Admin/ListBuilder.php"
+			],
+			[
+				"nestedb",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Admin/NestedListBuilder.php"
+			],
+			[
+				"listcontro",
+				"src/candgo/AdminBundle/Controller/Artista/ListController.php"
+			],
+			[
+				"recinto.php",
+				"src/candgo/EventoBundle/Entity/Recinto.php"
+			],
+			[
+				"base",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"collection.php",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/EditTemplate/Type/collection.php.twig"
+			],
+			[
+				"confi.y",
+				"app/config/config.yml"
+			],
+			[
+				"actions.php",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/actions.php.twig"
+			],
+			[
+				"fieldset.php",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/EditTemplate/fieldset.php.twig"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"sesio",
+				"src/candgo/EventoBundle/Entity/Sesion.php"
+			],
+			[
+				"evento",
+				"src/candgo/EventoBundle/Entity/Evento.php"
+			],
+			[
+				"evento.php",
+				"src/candgo/EventoBundle/Entity/Evento.php"
+			],
+			[
+				"session",
+				"vendor/behat/mink/src/Behat/Mink/Session.php"
+			],
+			[
+				"initiallo",
+				"src/candgo/EventoBundle/DataFixtures/ORM/InitialLoad.php"
+			],
+			[
+				"initiall",
+				"src/candgo/EventoBundle/DataFixtures/ORM/InitialLoad.php"
+			],
+			[
+				"listbui",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Admin/ListBuilder.php"
+			],
+			[
+				"listbuil",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Admin/ListBuilderTemplate.php"
+			],
+			[
+				"echo",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Twig/Extension/EchoExtension.php"
+			],
+			[
+				"fieldset",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/EditTemplate/fieldset.php.twig"
+			],
+			[
+				"thead",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/thead.php.twig"
+			],
+			[
+				"doctrinedo",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Form/Type/DoctrineDoubleListType.php"
+			],
+			[
+				"autoload.php.dist",
+				"vendor/mopa/bootstrap-bundle/Mopa/Bundle/BootstrapBundle/Tests/tests/autoload.php.dist"
+			],
+			[
+				"test",
+				"vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Tests/TestUser.php"
+			],
+			[
+				"listbu",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Admin/ListBuilderTemplate.php"
+			],
+			[
+				"app_",
+				"web/app_dev.php"
+			],
+			[
+				"config_de",
+				"app/config/config_dev.yml"
+			],
+			[
+				"eventocontro",
+				"src/candgo/EventoBundle/Controller/EventoController.php"
+			],
+			[
+				"admingeneratorvi",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Pagerfanta/View/AdmingeneratorView.php"
+			],
+			[
+				"config.yml",
+				"app/config/config.yml"
+			],
+			[
+				"nbres",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListTemplate/nbresults.php.twig"
+			],
+			[
+				"pager.php",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/templates/CommonAdmin/ListAction/pager.php.twig"
+			],
+			[
+				"paginatio",
+				"vendor/mopa/bootstrap-bundle/Mopa/Bundle/BootstrapBundle/Resources/translations/pagination.pl.yml"
+			],
+			[
+				"app_de",
+				"web/app_dev.php"
+			],
+			[
+				"app.php",
+				"web/app.php"
+			],
+			[
+				"doctrineo",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Guesser/DoctrineORMFieldGuesser.php"
+			],
+			[
+				"view.h",
+				"src/candgo/EventoBundle/Resources/views/Evento/view.html.twig"
+			],
+			[
+				"evento.",
+				"src/candgo/EventoBundle/Entity/Evento.php"
+			],
+			[
+				"annotationex",
+				"vendor/doctrine/common/lib/Doctrine/Common/Annotations/AnnotationException.php"
+			],
+			[
+				"recin",
+				"src/candgo/AdminBundle/Resources/config/Recinto-generator.yml"
+			],
+			[
+				"secur",
+				"app/config/security.yml"
+			],
+			[
+				"recinto",
+				"src/candgo/AdminBundle/Resources/config/Recinto-generator.yml"
+			],
+			[
+				"config.",
+				"app/config/config.yml"
+			],
+			[
+				"recintos.",
+				"src/candgo/EventoBundle/DataFixtures/ORM/Recintos.php"
+			],
+			[
+				"routing",
+				"app/config/routing.yml"
+			],
+			[
+				"purchase",
+				"src/candgo/PurchaseBundle/Resources/views/Default/start_purchase.html.twig"
+			],
+			[
+				"evento-g",
+				"src/candgo/AdminBundle/Resources/config/Evento-generator.yml"
+			],
+			[
+				"generator",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Builder/Generator.php"
+			],
+			[
+				"base.t",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"eventoco",
+				"src/candgo/EventoBundle/Controller/EventoController.php"
+			],
+			[
+				"my",
+				"web/less/my-mixins.less"
+			],
+			[
+				"my-",
+				"web/less/my-mixins.less"
+			],
+			[
+				"mixin",
+				"web/less/bootstrap/mixins.less"
+			],
+			[
+				"style.e",
+				"web/less/style.less"
+			],
+			[
+				"base.html.",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"propel",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Guesser/PropelORMFieldGuesser.php"
+			],
+			[
+				"doctrineor",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Guesser/DoctrineORMFieldGuesser.php"
+			],
+			[
+				"base_ad",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Resources/views/base_admin.html.twig"
+			],
+			[
+				"base_a",
+				"vendor/cedriclombardot/admingenerator-activeadmintheme-bundle/Admingenerator/ActiveAdminThemeBundle/Resources/views/base_admin.html.twig"
+			],
+			[
+				"generatebundlec",
+				"vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Command/GenerateBundleCommand.php"
+			],
+			[
+				"configy",
+				"app/config/config.yml"
+			],
+			[
+				"style",
+				"web/css/style.css"
+			],
+			[
+				"all.css",
+				"web/bundles/admingeneratoractiveadmintheme/css/all.css"
+			],
+			[
+				"appke",
+				"app/AppKernel.php"
+			],
+			[
+				"defaultmenu",
+				"vendor/cedriclombardot/admingenerator-generator-bundle/Admingenerator/GeneratorBundle/Menu/DefaultMenuBuilder.php"
+			],
+			[
+				"generatebun",
+				"vendor/sensio/generator-bundle/Sensio/Bundle/GeneratorBundle/Command/GenerateBundleCommand.php"
+			],
+			[
+				"candgoadmin",
+				"src/candgo/AdminBundle/candgoAdminBundle.php"
+			],
+			[
+				"docu",
+				"src/demo/pocBundle/Entity/Document.php"
+			],
+			[
+				"recintoty",
+				"src/candgo/EventoBundle/Form/RecintoType.php"
+			],
+			[
+				"entrada",
+				"src/candgo/EventoBundle/Entity/Entrada.php"
+			],
+			[
+				"entradagee",
+				"src/candgo/EventoBundle/Entity/EntradaGenerada.php"
+			],
+			[
+				"bootstra",
+				"app/bootstrap.php.cache"
+			],
+			[
+				"carrito",
+				"src/candgo/PurchaseBundle/Entity/Carrito.php"
+			],
+			[
+				"entradagene",
+				"src/candgo/EventoBundle/Entity/EntradaGenerada.php"
+			],
+			[
+				"articulo",
+				"src/candgo/PurchaseBundle/Entity/ArticuloCarrito.php"
+			],
+			[
+				"confg",
+				".codeintel/config"
+			],
+			[
+				"dateti",
+				"vendor/symfony/symfony/src/Symfony/Component/Form/Extension/Core/Type/DateTimeType.php"
+			],
+			[
+				"sesiontyp",
+				"src/candgo/EventoBundle/Form/SesionType.php"
+			],
+			[
+				"artis",
+				"src/candgo/EventoBundle/Entity/Artista.php"
+			],
+			[
+				"base.h",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"sesionty",
+				"src/candgo/EventoBundle/Form/SesionType.php"
+			],
+			[
+				"mixty",
+				"src/candgo/EventoBundle/Form/MixType.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/proyectos/candgo/candgo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}
