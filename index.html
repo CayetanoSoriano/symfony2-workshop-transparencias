@@ -38,7 +38,23 @@
 				<section data-state="intro">
 					<h1>Workshop</h1>
 					<h3>Symfony2</h3>
-					<p>Creación de un blog con symfony2</p>
+				</section>
+				<section>
+					<section>
+						<h1>$whoami</h1>
+					</section>
+					<section>
+						<p>
+							<ul>
+								<li>Cayetano Soriano Gallego</li>
+								<li>Acabando PFC ITIS</li>
+								<li>Actualmente trabajo en Crononauta</li>
+								<li>Llevo un año y medio con symfony2</li>
+								<li>Mantenedor de symfony2admingenerator</li>
+								<li>twitter <b>@neoshadybeat</b></li>
+							</ul>
+						</p>
+					</section>
 				</section>
 				<section>
 					<h2>Contraseña wifi</h2>
@@ -61,26 +77,26 @@
 				</section>
 				<section>
 					<section>
-					<h2>¿Qué es symfony2?</h2>
-					<p>
-						<q>	Symfony is a PHP Web Development Framework.
-							That doesn’t answer your question? 
-							Ok, let’s try that again. 
-							Symfony is a PHP Framework, a Philosophy, and a Community - all working together in harmony.
-						</q><br>symfony.com
-						<br><br>
-						<q> It is written with speed and flexibility in mind. It allows developers to build better and easy to maintain websites with PHP.
-						</q><br>symfony.com
-					</p>
+						<h2>¿Qué es symfony2?</h2>
+						<p>
+							<q>	Symfony is a PHP Web Development Framework.
+								That doesn’t answer your question? 
+								Ok, let’s try that again. 
+								Symfony is a PHP Framework, a Philosophy, and a Community - all working together in harmony.
+							</q><br>symfony.com
+							<br><br>
+							<q> It is written with speed and flexibility in mind. It allows developers to build better and easy to maintain websites with PHP.
+							</q><br>symfony.com
+						</p>
 
-					<aside class="notes">
-						Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-					</aside>
-				</section>
-									<section>
-						<img src="img/cool_jesus.jpg" alt="cool">
-						</section>
+						<aside class="notes">
+							Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
+						</aside>
 					</section>
+					<section>
+						<img src="img/cool_jesus.jpg" alt="cool">
+					</section>
+				</section>
 
 				<section>
 					<section>
@@ -185,36 +201,56 @@
 						<h2>Sintaxis twig</h2>
 					</section>
 					<section>
+						<p>Herencia de otra plantilla y reescritura de bloques</p>
 						<pre>
 							<code class="django">
-								{% extends "plantilla" %} 
+{% extends "plantilla" %} 
 							</code>
 						</pre>
+						<p>Bloque de código el cual puede ser reemplazado por las plantillas que hereden de ella</p>
 						<pre>
 							<code class="django">
-								{% block "nombre_bloque" %} 
+{% block "nombre_bloque" %} 
 							</code>
 						</pre>
+<p>Bucle for en la plantilla ...</p>
 						<pre>
 							<code class="django">
-								{% for item in seq %}
-								{% endfor %}
+{% for item in seq %}{% endfor %}
 							</code>
 						</pre>
 					</section>
 					<section>
+<p>if en la plantilla ...</p>
 						<pre>
 							<code class="django">
-								{% if condition %}{% endif %}
+{% if condition %}{% endif %}
 							</code>
 						</pre>
-
+<p>acceso a tributos de una clase</p>
 						<pre>
 							<code class="django">
-								{{ objeto.atributo }}
+{{ objeto.atributo }}
 							</code>
 						</pre>
-
+					</section>
+					<section>
+						<h2>Específicos de symfony2</h2>
+					</section>
+					<section>
+<p>Generar una url</p>
+						<pre>
+							<code class="django">
+{{path('url',{'parm': objeto.atributo})}}
+							</code>
+						</pre>
+<p>Acceso a recursos estáticos</p>
+						<pre>
+							<code class="django">
+{{ asset('url_a_js') }}
+							</code>
+						</pre>
+					</section>
 					</section>
 				</section>
 				<section>
@@ -271,9 +307,9 @@
 							<h3>Ejemplo:</h3>
 							<pre>
 								<code>
-SELECT u FROM MyProject\Model\User u WHERE u.age > 20		
-							    </code>
-						    </pre>
+									SELECT u FROM MyProject\Model\User u WHERE u.age > 20		
+								</code>
+							</pre>
 						</p>
 					</section>
 				</section>
@@ -287,41 +323,97 @@ SELECT u FROM MyProject\Model\User u WHERE u.age > 20
 					</ul>
 				</section>
 				<section>
-				<section>
-					<h1>Proyecto a realizar ...</h1>
-				</section>
-				<section>
-					<h1>Un blog!!!</h1>
-				</section>
-				<section>
-					<h1>Orden del día ...</h1>
-				</section>
-				<section>
-					<p>
-						<ul>
-							<li>Instalación de symfony2 con composer</li>
-							<li>Explicar las partes de symfony2</li>
-							<li>Instalación de Bundle de terceros</li>
-							<li>Creación de Bundles</li>
-							<li>Consola de symfony2</li>
-							<li>Doctrine2, en symfony2 (entidades, relaciones, ciclo de vida)</li>
-							<li>Sistema de plantillas twig, en symfony2</li>
-							<li>Formularios</li>
-							<li>Routing</li>
+					<section>
+						<h1>Proyecto a realizar ...</h1>
+					</section>
+					<section>
+						<h1>Un blog!!!</h1>
+					</section>
+					<section>
+						<h1>Orden del día ...</h1>
+					</section>
+					<section>
+						<p>
+							<ul>
+								<li>Instalación de symfony2 con composer</li>
+								<li>Explicar las partes de symfony2</li>
+								<li>Instalación de Bundle de terceros</li>
+								<li>Creación de Bundles</li>
+								<li>Consola de symfony2</li>
+								<li>Doctrine2, en symfony2 (entidades, relaciones, ciclo de vida)</li>
+								<li>Sistema de plantillas twig, en symfony2</li>
+								<li>Formularios</li>
+								<li>Routing</li>
+								<li>knp-paginator</li>
+							</ul>
+						</p>
+					</section>
+					<section>
+						<h1>One more thing ...</h1>
+						<h2 class="fragment">Si sobra tiempo</h2>
+						<ul class="fragment">
 							<li>Swiftmailer</li>
 							<li>Assetics</li>
+							<li>Listeners</li>
+							<li>Crear métodos en twig</li>
+							<li>Capifony (deploy)</li>
+							<li>Symfony Admingenerator</li>
 						</ul>
-					</p>
+					</section>
 				</section>
 				<section>
-					<h1>One more thing ...</h1>
-					<ul>
-						<li>Listeners</li>
-						<li>Crear métodos en twig</li>
-						<li>Capifony (deploy)</li>
-						<li>Symfony Admingenerator</li>
-					</ul>
+					<section>
+						<h2>Máquina virtual</h2>
+						<h3>Urls de los entornos</h3>
+						<p>
+							<ul>
+								<li>http://symfony2-playground instalación limpia</li>
+								<li>http://symfony2-workshop clone del repositorio</li>
+							</ul>
+						</p>
+					</section>
+					<section>
+						<h2>La contraseña para todo es ...</h2>
+						<h4 class="fragment">symfony</h4>
+					</section>
+					<section>
+						<h2>En el escritorio hay ...</h2>
+						<h3 class="fragment">Sublime "dopado"</h3>
+						<h3 class="fragment">symfony2cheetsheat</h3>
+						<h3 class="fragment">PDF documentación</h3>
+					</section>
 				</section>
+				<section>
+					<section>
+						<h2>Un poquito de spam</h2>
+					</section>
+					<section>
+						<h2>Betabeers Cádiz</h2>
+						<p class="fragment">
+							Reunión mensual de desarrolladores, que se realiza en Cádiz,
+						</p>
+						<p class="fragment">
+							Tenemos cervezita gratis, refrescos y <b class="fragment">GALLETITAS SALADAS!!!</b>
+						</p>
+						<p>
+						 <b>twitter</b> @betabeerscdz
+						</p>
+					</section>
+					<section>
+						<h2>Cádiz developers</h2>
+						<p class="fragment">
+							Grupo de facebook dónde los developers gaditanos, planeamos conquistar el mundo y hablar de nuestras cosas
+						</p>
+						<p class="fragment">
+							<a href="http://cadizdev.com">cadizdev.com</a>
+						</p>
+					</section>
+					<section>
+						<h2>Symfony Group Andalucía</h2>
+						<p class="fragment">
+							Estamos trabajando en ello ....
+						</p>
+					</section>
 				</section>
 				<section>
 					<h1>HERE WE GO!!!</h1>
